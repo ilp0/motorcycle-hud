@@ -12,5 +12,5 @@
 * 1 x micro switch
 * 3D printed PLA case
 
-![](https://raw.githubusercontent.com/ilp0/motorcycle-hud/master/mhud02.jpg)
+![](https://raw.githubusercontent.com/ilp0/motorcycle-hud/master/mhud02.jpeg)
 ![](https://raw.githubusercontent.com/ilp0/motorcycle-hud/master/mhud01.jpg)
